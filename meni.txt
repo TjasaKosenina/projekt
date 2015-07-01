@@ -1,0 +1,3 @@
+testenine,10
+rizota,10
+solata,5
